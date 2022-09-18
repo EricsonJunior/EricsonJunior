@@ -17,11 +17,11 @@ Caso queira entrar em contato comigo segue algumas das minhas redes sociais
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br><br><br>
 <div>
-etec prof basilides de godoy
+
 Jovem mudando de área recentemente, conhecendo um pouco do vasto mundo da tecnologia e suas programações e adorando muito
 sempre procurando por desafios complexos, pois sem desafios não tem como aprender e executar o que lhe foi ensinado.
 
-🏫 - Etec Prof. Basilides de Godoy
+🏫 - Etec Prof. Basilides de Godoy <br>
 📚 - Desenvolvimento de sistemas - cursando - 1/3 semestres
   
   
