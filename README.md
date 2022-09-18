@@ -5,8 +5,8 @@ Caso queira entrar em contato comigo segue algumas das minhas redes sociais
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ericson_jr/)
 
 
-
 ![EricsonJunior GitHub stats](https://github-readme-stats.vercel.app/api?username=EricsonJunior&theme=midnight-purple&icons=true)
+![Nivel](https://github-readme-stats.vercel.app/api/top-langs/?username=EricsonJunior&theme=midnight-purple&layout=compact)
 
 
 ####### Tecnologias ultilizada no meu dia a dia ########
